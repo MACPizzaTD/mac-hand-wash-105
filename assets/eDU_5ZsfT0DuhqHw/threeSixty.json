@@ -1,0 +1,143 @@
+{
+  "version": "3.83.31444.0",
+  "course_id": "5vQB1cZpon8_course_id",
+  "title": "HANDWASHING_d2L",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro"
+    },
+    {
+      "title": "Highfive"
+    },
+    {
+      "title": "Pickup"
+    },
+    {
+      "title": "Cleaning"
+    },
+    {
+      "title": "Touching"
+    },
+    {
+      "title": "Cash"
+    },
+    {
+      "title": "Sim"
+    },
+    {
+      "title": "End"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6cCMGua645e",
+      "title": "Disclaimer",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6NIWnkJp3K6",
+      "title": "Intro",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5toCPmW7mEq",
+      "title": "Support",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5rufFmEEbjd",
+      "title": "ElbowBump",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "69WuPbPt0Sr",
+      "title": "HighFive",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5y6audtfUH2",
+      "title": "Drop and Pickup",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6ViUN6hP9AQ",
+      "title": "Untitled Slide",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5ohYm6kXRZV",
+      "title": "Untitled Slide",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5dtE1ME1dCl",
+      "title": "WashIFCleaning",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6e19XK7fVzN",
+      "title": "Untitled Slide",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6eSCJCQTzOF",
+      "title": "Untitled Slide",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6DvNMhxz995",
+      "title": "Touching_Scratching",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5VH3mRiL3e8",
+      "title": "Untitled Slide",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6oE8gCiglx3",
+      "title": "Untitled Slide",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6TTJaDKixZs",
+      "title": "Cash",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "64JUnFs0hFy",
+      "title": "Untitled Slide",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6WSVB1eY11L",
+      "title": "Untitled Slide",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6fIhOLrJwPC",
+      "title": "Sim Instruction",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5hC2vHi4M4Z",
+      "title": "Sim",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6nSxXB5LOpI",
+      "title": "Close",
+      "scene_index": "8.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
